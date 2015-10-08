@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health Record</string>
+
+    <string name="title">Health Record</string>
+    <string name="Urer">User :</string>
+    <string name="Pass">Password :</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="Sign_in">Sign in</string>
+
+
+</resources>
