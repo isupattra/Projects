@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/wall3"
+    android:background="@drawable/wall"
     android:paddingTop="0dp">
 
     <LinearLayout
@@ -29,8 +29,8 @@
             android:layout_height="@dimen/logo"
             android:id="@+id/imageView"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="10dp"
-            android:src="@drawable/logo" />
+            android:layout_marginTop="0dp"
+            android:src="@drawable/logo2" />
 
         <EditText
             android:layout_width="@dimen/edit_text"
