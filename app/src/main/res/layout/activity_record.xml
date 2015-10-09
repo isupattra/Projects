@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="utcc.cken.tae.som.healthrecord.RecordActivity"
-    android:background="@drawable/wall">
+    android:background="@drawable/wall_record">
 
     <LinearLayout
         android:orientation="vertical"
