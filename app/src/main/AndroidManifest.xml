@@ -27,6 +27,14 @@
         </activity>
         <activity android:name=".HomeActivity" >
         </activity>
+        <activity android:name=".HeartActivity" >
+        </activity>
+        <activity android:name=".LowpressureActivity" >
+        </activity>
+        <activity android:name=".highpressureActivity" >
+        </activity>
+        <activity android:name=".diabetesActivity" >
+        </activity>
     </application>
 
 </manifest>

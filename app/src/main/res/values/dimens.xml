@@ -13,5 +13,10 @@
     <!--สำหรับรูปภาพต่างๆ-->
     <dimen name="logo">120dp</dimen>
     <dimen name="edit_text">230dp</dimen>
+    <dimen name="edit_text_short">80dp</dimen>
+    <dimen name="heigh_dimen">80dp</dimen>
+    <dimen name="heigh_dimen_short">20dp</dimen>
+
+
 
 </resources>

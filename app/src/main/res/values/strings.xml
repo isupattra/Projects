@@ -6,6 +6,8 @@
     <string name="Pass">Password :</string>
     <string name="Sign_up">Sign up</string>
     <string name="Sign_in">Sign in</string>
+    <string name="User_regis">User</string>
+    <string name="Pass_regis">Password</string>
 
     <string name="title_signup">สมัคสมาชิก</string>
     <string name="name">ชื่อ นามสกุล</string>
@@ -31,6 +33,17 @@
     <string name="lowpressure">โรคความดันต่ำ</string>
     <string name="highpressure">โรคความดันสูง</string>
     <string name="heartdisease">โรคหัวใจ</string>
+    
+    <string name="sugar">ค่าน้ำตาล</string>
+    <string name="systolic">systolic</string>
+    <string name="diastolic">diastolic</string>
+    <string name="alcohol">แอลกอฮอล์,บุหรี่</string>
+    <string name="stress">ความเครียด</string>
+
+
+    <string name="never">ไม่เลย</string>
+    <string name="sometime">น้อย</string>
+    <string name="often">มาก</string>
 
 
 </resources>
