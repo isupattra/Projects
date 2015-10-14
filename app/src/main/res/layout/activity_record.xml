@@ -69,7 +69,7 @@
             android:layout_height="wrap_content" >
 
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="50dp"
                 android:layout_height="wrap_content"
                 android:text="@string/exercise"
                 android:id="@+id/textView8"
@@ -109,7 +109,7 @@
             android:layout_height="wrap_content" >
 
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:text="@string/monitor"
                 android:id="@+id/textView10"

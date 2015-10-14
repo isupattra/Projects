@@ -20,6 +20,7 @@
     <string name="height">ส่วนสูง (เซนติเมตร)</string>
     <string name="save">บันทึกข้อมูล</string>
     <string name="aboutme">เกี่ยวกับฉัน</string>
+    <string name="title_rec">บันทึกพฤติกรรม</string>
     
     <string name="title_record">บันทึกพฤติกรรมประจำวัน</string>
     <string name="sleep">การนอน</string>
@@ -45,5 +46,11 @@
     <string name="sometime">น้อย</string>
     <string name="often">มาก</string>
 
+
+    <string name="check">เช็คสุขภาพ</string>
+    <string name="pressure">เช็คความดัน</string>
+    <string name="heartbeat">อัตราการเต้นหัวใจ</string>
+    <string name="bmi">BMI</string>
+    <string name="glucose">ค่าน้ำตาลในเลือด</string>
 
 </resources>

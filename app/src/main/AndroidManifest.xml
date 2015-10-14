@@ -35,6 +35,14 @@
         </activity>
         <activity android:name=".diabetesActivity" >
         </activity>
+        <activity android:name=".CheckhealthActivity" >
+        </activity>
+        <activity android:name=".CheckpressActivity" >
+        </activity>
+        <activity android:name=".CheckglucoseActivity" >
+        </activity>
+        <activity android:name=".CheckheartActivity" >
+        </activity>
     </application>
 
 </manifest>
