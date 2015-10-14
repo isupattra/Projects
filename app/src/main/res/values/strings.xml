@@ -52,5 +52,8 @@
     <string name="heartbeat">อัตราการเต้นหัวใจ</string>
     <string name="bmi">BMI</string>
     <string name="glucose">ค่าน้ำตาลในเลือด</string>
+    <string name="submit">ยืนยัน</string>
+    <string name="back">กลับ</string>
+    <string name="edit">แก้ไข</string>
 
 </resources>

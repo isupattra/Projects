@@ -43,6 +43,10 @@
         </activity>
         <activity android:name=".CheckheartActivity" >
         </activity>
+        <activity android:name=".CheckbmiActivity" >
+        </activity>
+        <activity android:name=".AboutmeActivity" >
+        </activity>
     </application>
 
 </manifest>

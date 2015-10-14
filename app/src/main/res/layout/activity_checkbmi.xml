@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="utcc.cken.tae.som.healthrecord.CheckheartActivity"
+    tools:context="utcc.cken.tae.som.healthrecord.CheckbmiActivity"
     android:background="@drawable/wall">
 
     <LinearLayout
@@ -10,18 +10,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#82ffffff"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_marginBottom="80dp">
+        android:layout_margin="20dp">
 
         <ImageView
             android:layout_width="120dp"
             android:layout_height="120dp"
-            android:id="@+id/imageView4"
-            android:layout_marginTop="20dp"
+            android:id="@+id/imageView5"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/heartbeat" />
+            android:layout_marginTop="20dp"
+            android:src="@drawable/bmi" />
 
         <LinearLayout
             android:orientation="horizontal"
@@ -31,8 +28,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/sugar"
-                android:id="@+id/textView43"
+                android:text="@string/weight"
+                android:id="@+id/textView44"
                 android:textSize="@dimen/h2"
                 android:layout_marginLeft="30dp"
                 android:layout_marginTop="20dp" />
@@ -40,7 +37,29 @@
             <EditText
                 android:layout_width="@dimen/edit_text_short"
                 android:layout_height="wrap_content"
-                android:id="@+id/editText17"
+                android:id="@+id/editText18"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/heigh_dimen" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/height"
+                android:id="@+id/textView47"
+                android:textSize="@dimen/h2"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp" />
+
+            <EditText
+                android:layout_width="@dimen/edit_text_short"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText21"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="30dp" />
         </LinearLayout>
@@ -49,11 +68,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/submit"
-            android:id="@+id/button23"
+            android:id="@+id/button24"
             android:layout_gravity="center_horizontal"
             android:background="#46809d"
             android:textColor="#ffffff"
             android:textSize="@dimen/h3"
-            android:layout_margin="60dp" />
+            android:layout_margin="50dp" />
+
     </LinearLayout>
+
 </RelativeLayout>
